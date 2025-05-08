@@ -1,0 +1,11 @@
+#
+# 5%で苗木もドロップする設定なのでSkyblock島などでやるとおもしろいかも
+#
+
+#ここでランダムドロップのリストから特定のアイテムを除外することができます
+excluded-materials:
+  - AIR
+  - BEDROCK
+  - COMMAND_BLOCK
+  - STRUCTURE_VOID
+  - BARRIER
